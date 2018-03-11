@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-component/react-native-smart-sudoku-grid.git"
+    "url": "git+https://github.com/higherstar/react-native-smart-sudoku-grid"
   },
   "keywords": [
     "react-native",
@@ -17,10 +17,10 @@
     "grid",
     "component"
   ],
-  "author": "HISAME SHIZUMARU",
+  "author": "Stefan Rendle",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/react-native-component/react-native-smart-sudoku-grid/issues"
+    "url": "https://github.com/higherstar/react-native-smart-sudoku-grid/issues"
   },
-  "homepage": "https://github.com/react-native-component/react-native-smart-sudoku-grid#readme"
+  "homepage": "https://github.com/higherstar/react-native-smart-sudoku-grid#readme"
 }
