@@ -1,5 +1,5 @@
 {
-  "name": "@react-native-component/react-native-smart-sudoku-grid",
+  "name": "react-native-smart-sudoku-grid",
   "version": "1.0.9",
   "description": "A smart sudoku grid layout for react-native apps",
   "main": "Grid.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/higherstar/react-native-smart-sudoku-grid"
+    "url": "git+https://github.com/react-native-component/react-native-smart-sudoku-grid.git"
   },
   "keywords": [
     "react-native",
@@ -17,10 +17,10 @@
     "grid",
     "component"
   ],
-  "author": "Stefan Rendle",
+  "author": "HISAME SHIZUMARU",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/higherstar/react-native-smart-sudoku-grid/issues"
+    "url": "https://github.com/react-native-component/react-native-smart-sudoku-grid/issues"
   },
-  "homepage": "https://github.com/higherstar/react-native-smart-sudoku-grid#readme"
+  "homepage": "https://github.com/react-native-component/react-native-smart-sudoku-grid#readme"
 }

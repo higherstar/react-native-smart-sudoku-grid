@@ -5,12 +5,15 @@
  * Copyright (c) 2016 react-native-component <moonsunfall@aliyun.com>
  */
 
-import React, { Component } from 'react'
-import PropTypes from 'prop-types'
+import React, {
+  Component,
+  PropTypes,
+} from 'react'
 import {
   View,
   StyleSheet,
   Dimensions,
+  ViewPropTypes,
 } from 'react-native'
 
 const { width: deviceWidth } = Dimensions.get('window');
@@ -30,7 +33,7 @@ export default class SudokuGrid extends Component {
       columnCount: PropTypes.number.isRequired,
       dataSource: PropTypes.array.isRequired,
       renderCell: PropTypes.func.isRequired,
-      style: View.propTypes.style,
+      style: ViewPropTypes.style,
   }
 
   // 构造
